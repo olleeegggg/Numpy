@@ -1,2 +1,2 @@
-# Numpy
-My Jupyter Notebook notes on how I learned Numpy
+# NumPy
+My Jupyter Notebook notes on how I learned NumPy
